@@ -35,3 +35,14 @@ accountBalance/=2
 console.log("updated balance:",accountBalance)
 accountBalance%=10
 console.log("updated balance:",accountBalance)
+
+
+let employeeScore1 = 75;
+let employeeScore2 = 99;
+
+console.log(employeeScore1 > employeeScore2);
+console.log(employeeScore1 < employeeScore2);
+console.log(employeeScore1 >= employeeScore2);
+console.log(employeeScore1 <= employeeScore2);
+console.log(employeeScore1 === employeeScore2);
+console.log(employeeScore1 !== employeeScore2);
