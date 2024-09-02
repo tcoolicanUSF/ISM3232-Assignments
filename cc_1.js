@@ -21,3 +21,17 @@ const productDetails = {
 
 console.log(products);
 console.log(productDetails);
+
+
+let accountBalance = 1000;
+console.log("initial balance:",accountBalance)
+accountBalance +=200
+console.log("updated balance:",accountBalance)
+accountBalance -=150
+console.log("updated balance:",accountBalance)
+accountBalance*=2
+console.log("updated balance:",accountBalance)
+accountBalance/=2
+console.log("updated balance:",accountBalance)
+accountBalance%=10
+console.log("updated balance:",accountBalance)
